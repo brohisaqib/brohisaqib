@@ -18,19 +18,6 @@ I love uncovering insights from raw data, designing interactive dashboards, and 
 - 🌐 HTML5, CSS3
 - 📊 SQL (Basic queries and joins)
 
-### 📊 Data Analysis & Tools:
-- 🐼 Pandas, NumPy
-- 📈 Matplotlib, Seaborn
-- 📊 Power BI
-- 📝 Jupyter Notebook
-- 🐘 PostgreSQL, MySQL (Basics)
-
-### 🌐 Web Development:
-- 🎨 HTML/CSS
-- 💠 WordPress
-- ⚡ Bootstrap
-
----
 
 ## 🌐 Portfolio
 
@@ -64,7 +51,3 @@ I love uncovering insights from raw data, designing interactive dashboards, and 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brohisaqib&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
----
-
-> 💡 **“Turning data into decisions.”**
