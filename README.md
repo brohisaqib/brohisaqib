@@ -1,23 +1,41 @@
 <h1 align="center">👋 Hi, I'm Saqib Brohi</h1>
-<h3 align="center">🚀 Data Analyst | Python & Java Developer | Web Designer</h3>
+<h3 align="center">🤖 AI & Machine Learning Enthusiast | Python Developer | Data Science Learner</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate and curious **Data Analyst** with a background in computer science and a strong grip on both programming and data visualization.  
-I love uncovering insights from raw data, designing interactive dashboards, and solving real-world problems using technology.
+I am a Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**.  
+I enjoy building intelligent applications, analyzing data, and solving real-world problems using modern AI technologies.
+
+My work focuses on developing **AI-powered solutions**, including resume analysis systems, data-driven applications, and NLP-based projects.  
+I am continuously learning and exploring new advancements in the field of AI to enhance my technical expertise.
 
 ---
 
 ## 🧠 Skills & Technologies
 
-### 💻 Programming Languages:
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- ☕ Java
-- 🌐 HTML5, CSS3
-- 📊 SQL (Basic queries and joins)
+### 🤖 AI & Data Science:
+- Machine Learning (Scikit-learn)
+- Natural Language Processing (NLP)
+- Data Analysis & Visualization
 
+### 💻 Programming:
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- ☕ Java
+
+### 🌐 Web & Database:
+- HTML5, CSS3
+- SQL (Queries, Joins, Data Handling)
+
+---
+
+## 🚀 Projects
+
+- 🔹 **AI Resume Analyzer & Job Match System**  
+  Developed an AI-based system that analyzes resumes and matches them with job descriptions using **TF-IDF and Cosine Similarity**, integrated with AI-generated feedback.
+
+---
 
 ## 🌐 Portfolio
 
@@ -29,16 +47,16 @@ I love uncovering insights from raw data, designing interactive dashboards, and 
 
 <p align="left">
   <a href="https://www.facebook.com/share/15fkaxCAfu/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.instagram.com/brohiisaqib?igsh=MXMyZXpjdGw4dm9ubA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/brohisaqib" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://brohisaqib.github.io/Portfolio-/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
