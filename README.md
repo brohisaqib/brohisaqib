@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Saqib+Brohi;AI+%26+Machine+Learning+Engineer;Data+Analytics+%7C+Machine+Learning+%7C+Deep+Learning;Building+Production-Ready+AI+Solutions+🚀;Always+Learning+Something+New+💡" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Hi+there!;I'm+Saqib+Brohi;AI+%26+Machine+Learning+Engineer;Data+Analytics+%7C+Machine+Learning+%7C+Deep+Learning;Building+Production-Ready+AI+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </div>
 
